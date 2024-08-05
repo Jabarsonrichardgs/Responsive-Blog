@@ -1,0 +1,13 @@
+.header-content{
+    margin-top: 100px;
+    margin-bottom: 80px;
+
+}
+body{
+    background-color:rgb(241, 253, 255);
+}
+.page-cont{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border: 2px solid white;
+}
